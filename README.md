@@ -1,4 +1,4 @@
-### Hello there 👋
+# Hello there 👋
 This is my personal git profile
 
 <!--
